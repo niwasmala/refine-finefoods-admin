@@ -72,8 +72,8 @@ export const LoginPage: React.FC = () => {
                                 requiredMark={false}
                                 initialValues={{
                                     remember: false,
-                                    username: "admin",
-                                    password: "admin",
+                                    username: "dagingberkahabadi",
+                                    password: "123456",
                                 }}
                             >
                                 <Form.Item
